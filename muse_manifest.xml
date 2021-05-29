@@ -1,0 +1,296 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="playerone.com" resolutions="1x" timestamp="1622136689805">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="190250971" ref="index"/>
+    <file name="master_b-p_g_-maestra.css" crc="4275920576" ref="mejores-consolas:historia:top-de-juegos"/>
+    <file name="master_c-p_g_-maestra.css" crc="3854574161" ref="warzone:minecraft:xbox:fornite:playstation:nintendo"/>
+    <file name="warzone.css" crc="6824023" ref="warzone"/>
+    <file name="iefonts_warzone.css" crc="3938345086" ref="warzone"/>
+    <file name="mejores-consolas.css" crc="42662116" ref="mejores-consolas"/>
+    <file name="iefonts_mejores-consolas.css" crc="78690776" ref="mejores-consolas"/>
+    <file name="index.css" crc="458865506" ref="index"/>
+    <file name="iefonts_index.css" crc="375235596" ref="index"/>
+    <file name="minecraft.css" crc="276362215" ref="minecraft"/>
+    <file name="iefonts_minecraft.css" crc="390723532" ref="minecraft"/>
+    <file name="xbox.css" crc="113630109" ref="xbox"/>
+    <file name="iefonts_xbox.css" crc="3787643721" ref="xbox"/>
+    <file name="fornite.css" crc="3792937566" ref="fornite"/>
+    <file name="iefonts_fornite.css" crc="445521283" ref="fornite"/>
+    <file name="playstation.css" crc="188331888" ref="playstation"/>
+    <file name="iefonts_playstation.css" crc="3917054560" ref="playstation"/>
+    <file name="historia.css" crc="3971902032" ref="historia"/>
+    <file name="iefonts_historia.css" crc="495708431" ref="historia"/>
+    <file name="nintendo.css" crc="4051351918" ref="nintendo"/>
+    <file name="iefonts_nintendo.css" crc="449471721" ref="nintendo"/>
+    <file name="top-de-juegos.css" crc="4221334911" ref="top-de-juegos"/>
+    <file name="iefonts_top-de-juegos.css" crc="106348299" ref="top-de-juegos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:historia:mejores-consolas:top-de-juegos:xbox:playstation:nintendo:fornite:minecraft:warzone"/>
+    <file name="museutils.js" crc="3803043152" ref="index:historia:mejores-consolas:top-de-juegos:xbox:playstation:nintendo:fornite:minecraft:warzone"/>
+    <file name="whatinput.js" crc="86476730" ref="index:historia:mejores-consolas:top-de-juegos:xbox:playstation:nintendo:fornite:minecraft:warzone"/>
+    <file name="museconfig.js" crc="380897831" ref="index:historia:mejores-consolas:top-de-juegos:xbox:playstation:nintendo:fornite:minecraft:warzone"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:historia:mejores-consolas:top-de-juegos:xbox:playstation:nintendo:fornite:minecraft:warzone"/>
+    <file name="require.js" crc="4157109226" ref="index:historia:mejores-consolas:top-de-juegos:xbox:playstation:nintendo:fornite:minecraft:warzone"/>
+    <file name="webpro.js" crc="242022427" ref="xbox:playstation:nintendo:fornite:minecraft:warzone"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="xbox:playstation:nintendo:fornite:minecraft:warzone"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="xbox:playstation:nintendo:fornite:minecraft:warzone"/>
+    <file name="touchswipe.js" crc="4066113679" ref="xbox:playstation:nintendo:fornite:minecraft:warzone"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="xbox:playstation:nintendo"/>
+  </folder>
+  <folder name="images">
+    <file name="e80e4aa3765245c0779ecc466f5b4e6e94978470_hq-crop-u912.jpg" crc="289432487" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e80e4aa3765245c0779ecc466f5b4e6e94978470_hq-crop-u945.jpg" crc="3854343175" seo="true" ref="historia:mejores-consolas:top-de-juegos">
+      <caption webpage="top-de-juegos" alt=""/>
+      <caption webpage="mejores-consolas" alt=""/>
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="1111-crop-u880.jpg" crc="3831537565" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="82359720-joystick-inalámbrico-moderno-para-el-icono-de-consola-de-juegos-en-estilo-de-dibujos-animados-game-gad.jpg" crc="3996152877" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="82359716-joypad-inalámbrico-para-el-icono-de-consola-de-juego-en-estilo-de-dibujos-animados-el-artilugio-del-ju.jpg" crc="4057939013" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="logo-consola-solo-xbox-one-150316.jpg" crc="3784060874" seo="true" ref="mejores-consolas">
+      <caption webpage="mejores-consolas" alt=""/>
+    </file>
+    <file name="descarga-crop-u703.jpg" crc="3838578006" seo="true" ref="mejores-consolas">
+      <caption webpage="mejores-consolas" alt=""/>
+    </file>
+    <file name="nintendo-switch-logo-asimetrico-crop-u713.png" crc="62856536" seo="true" ref="mejores-consolas">
+      <caption webpage="mejores-consolas" alt=""/>
+    </file>
+    <file name="maxresdefault-crop-u754.jpg" crc="473990080" seo="true" ref="top-de-juegos">
+      <caption webpage="top-de-juegos" alt=""/>
+    </file>
+    <file name="wz-social-share-crop-u767.jpg" crc="67641813" seo="true" ref="top-de-juegos">
+      <caption webpage="top-de-juegos" alt=""/>
+    </file>
+    <file name="minecraft mejor imagen-crop-u793.jpg" crc="148295814" seo="true" ref="top-de-juegos">
+      <caption webpage="top-de-juegos" alt=""/>
+    </file>
+    <file name="e80e4aa3765245c0779ecc466f5b4e6e94978470_hq-crop-u1283.jpg" crc="4000342316" seo="true" ref="xbox:playstation:nintendo:fornite:minecraft:warzone">
+      <caption webpage="playstation" alt=""/>
+      <caption webpage="xbox" alt=""/>
+      <caption webpage="nintendo" alt=""/>
+      <caption webpage="fornite" alt=""/>
+      <caption webpage="warzone" alt=""/>
+      <caption webpage="minecraft" alt=""/>
+    </file>
+    <file name="xbox-logo-640x386.jpg" crc="185827558" seo="true" ref="xbox">
+      <caption webpage="xbox" alt=""/>
+      <caption webpage="xbox" alt=""/>
+      <caption webpage="xbox" alt=""/>
+    </file>
+    <file name="xbox-usa-crop-u3044.jpg" crc="448612705" seo="true" ref="xbox">
+      <caption webpage="xbox" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="xbox:playstation:nintendo:fornite:minecraft:warzone"/>
+    <file name="180329124123-microsoft-logo-780x439-crop-u3147.jpg" crc="52949495" seo="true" ref="xbox">
+      <caption webpage="xbox" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="xbox:playstation:nintendo:fornite:minecraft:warzone"/>
+    <file name="descarga (4).jpg" crc="33826273" seo="true" ref="xbox">
+      <caption webpage="xbox" alt=""/>
+    </file>
+    <file name="s-l300-crop-u3313.jpg" crc="27019672" seo="true" ref="xbox">
+      <caption webpage="xbox" alt=""/>
+    </file>
+    <file name="consola-xbox-360-venta-o-cambio-d_nq_np_850468-mlm31901913421_082019-f-crop-u3347.jpg" crc="98271168" seo="true" ref="xbox">
+      <caption webpage="xbox" alt=""/>
+    </file>
+    <file name="81-lz2g6bjl_ac_sl1500_.jpg" crc="205685308" seo="true" ref="xbox">
+      <caption webpage="xbox" alt=""/>
+    </file>
+    <file name="consola_xbox_360_slim-crop-u3484.jpg" crc="3965084266" seo="true" ref="xbox">
+      <caption webpage="xbox" alt=""/>
+    </file>
+    <file name="xbox-360-region-free-solo-xbox-one-1.jpg" crc="392158737" seo="true" ref="xbox">
+      <caption webpage="xbox" alt=""/>
+    </file>
+    <file name="450_1000 (1).jpg" crc="3889136953" seo="true" ref="xbox">
+      <caption webpage="xbox" alt=""/>
+    </file>
+    <file name="consolaxboxonesmoradafornitebattleroyaleedicinlimitada-i2-crop-u3724.jpg" crc="19264082" seo="true" ref="xbox">
+      <caption webpage="xbox" alt=""/>
+    </file>
+    <file name="94e30d3e-b948-4143-9366-01e916dbb455-790x395-crop-u2290.jpg" crc="339223264" seo="true" ref="xbox">
+      <caption webpage="xbox" alt=""/>
+    </file>
+    <file name="547622-mejores-juegos-xbox-one-2015-exclusiva.jpg" crc="370599008" seo="true" ref="xbox">
+      <caption webpage="xbox" alt=""/>
+    </file>
+    <file name="gears-of-war-5-xbox-one-ultimate-edition-el-mejor-d_nq_np_728489-mlm31275166468_062019-f-crop-u3774.jpg" crc="284352540" seo="true" ref="xbox">
+      <caption webpage="xbox" alt=""/>
+    </file>
+    <file name="gears-of-war-5-201982714243095_1-crop-u3877.jpg" crc="3877194534" seo="true" ref="xbox">
+      <caption webpage="xbox" alt=""/>
+    </file>
+    <file name="450_1000 (2)-crop-u3911.jpg" crc="4024978614" seo="true" ref="xbox">
+      <caption webpage="xbox" alt=""/>
+    </file>
+    <file name="halo-5-guardians-crop-u4014.jpg" crc="3832669625" seo="true" ref="xbox">
+      <caption webpage="xbox" alt=""/>
+    </file>
+    <file name="disco-boot-select-region-psx-ps1-psone-d_nq_np_890308-mla28602988046_112018-f-crop-u2904.jpg" crc="4194959082" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="descarga-crop-u3004.jpg" crc="3968829725" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="1366_2000.jpg" crc="4117297786" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="81ym1unmevl_sx342_.jpg" crc="3983249242" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="playstation-2.jpg" crc="154797316" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="450_1000 (3).jpg" crc="4167869034" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="1581347400_144086_1581347453_noticia_normal.jpg" crc="195788276" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="descarga173x115.jpg" crc="4023831379" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="playstation-podria-comenzar-a-lanzar-juegos-multiplataformas-crop-u2516.jpg" crc="529109729" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="top10ps4pc-crop-u2619.jpg" crc="376285904" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="spidy.jpg" crc="3991337069" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="hombreara-crop-u4238.jpg" crc="47603570" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="god-crop-u4139.jpg" crc="3781791908" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="gof-crop-u4279.jpg" crc="4071243840" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="header-crop-u4305.jpg" crc="3941596713" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="street-crop-u4416.jpg" crc="3991099782" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="best-crop-u4442.jpg" crc="531592328" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="gran turismo-crop-u4553.jpg" crc="176077879" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="terismo-crop-u4581.jpg" crc="339292412" seo="true" ref="playstation">
+      <caption webpage="playstation" alt=""/>
+    </file>
+    <file name="nintendo-switch-logo-asimetrico.png" crc="10908658" seo="true" ref="nintendo">
+      <caption webpage="nintendo" alt=""/>
+      <caption webpage="nintendo" alt=""/>
+    </file>
+    <file name="historia-de-nintendo_321725-crop-u4695.jpg" crc="4085818378" seo="true" ref="nintendo">
+      <caption webpage="nintendo" alt=""/>
+    </file>
+    <file name="e05b66533ce0dadedaeafc001d96f39e-1500x750-crop-u4803.jpg" crc="67712559" seo="true" ref="nintendo">
+      <caption webpage="nintendo" alt=""/>
+    </file>
+    <file name="1572513553_674726_1572513760_noticia_normal-crop-u2750.jpg" crc="11451018" seo="true" ref="nintendo">
+      <caption webpage="nintendo" alt=""/>
+    </file>
+    <file name="450_1000.jpg" crc="4578396" seo="true" ref="nintendo">
+      <caption webpage="nintendo" alt=""/>
+    </file>
+    <file name="1520833980_576472_1531817998_sumario_normal.jpg" crc="311786674" seo="true" ref="nintendo">
+      <caption webpage="nintendo" alt=""/>
+    </file>
+    <file name="portada-640x360-crop-u5979.jpg" crc="355919701" seo="true" ref="nintendo">
+      <caption webpage="nintendo" alt=""/>
+    </file>
+    <file name="nintendoswitch_mariokart8deluxe_presentation2017_scrn26_bmp_jpgcopy-1620x800-crop-u6087.jpg" crc="361175813" seo="true" ref="nintendo">
+      <caption webpage="nintendo" alt=""/>
+    </file>
+    <file name="450_10002.jpg" crc="175650014" seo="true" ref="nintendo">
+      <caption webpage="nintendo" alt=""/>
+    </file>
+    <file name="zelda-breath-wild-2-portada-crop-u6223.jpg" crc="4198201681" seo="true" ref="nintendo">
+      <caption webpage="nintendo" alt=""/>
+    </file>
+    <file name="maxresdefault (2)-crop-u6252.jpg" crc="3882415573" seo="true" ref="nintendo">
+      <caption webpage="nintendo" alt=""/>
+    </file>
+    <file name="h2x1_nswitch_luigismansion3_image1600w-crop-u6372.jpg" crc="4228242425" seo="true" ref="nintendo">
+      <caption webpage="nintendo" alt=""/>
+    </file>
+    <file name="maxresdefault.jpg" crc="220774907" seo="true" ref="fornite">
+      <caption webpage="fornite" alt=""/>
+    </file>
+    <file name="fortnite_blog_lock-in-your-chapter-2-season-2-fortnite-agency-and-maya-choices_12br_keyart_social_blogheader-1920x1080-1eb9dac306de3d5c36182ddd79d6a114f8dccca8-crop-u4911.jpg" crc="437070367" seo="true" ref="fornite">
+      <caption webpage="fornite" alt=""/>
+    </file>
+    <file name="fortnite_blog_battle-royale-update-whats-new-in-v11-31_11br_battlelabs_newsheader-1920x1080-f8f286d35adacd6f1de4cca4c30f0d8a6dfabe19-crop-u5018.jpg" crc="358735204" seo="true" ref="fornite">
+      <caption webpage="fornite" alt=""/>
+    </file>
+    <file name="450_1000 (4)-crop-u5044.jpg" crc="62296760" seo="true" ref="fornite">
+      <caption webpage="fornite" alt=""/>
+    </file>
+    <file name="maxresdefault-crop-u5148.jpg" crc="198972401" seo="true" ref="fornite">
+      <caption webpage="fornite" alt=""/>
+    </file>
+    <file name="minecraft mejor imagen-crop-u5578.jpg" crc="4131206354" seo="true" ref="minecraft">
+      <caption webpage="minecraft" alt=""/>
+    </file>
+    <file name="minecraft-magazine-ined21-crop-u5682.jpg" crc="4090487398" seo="true" ref="minecraft">
+      <caption webpage="minecraft" alt=""/>
+    </file>
+    <file name="15773750024848-crop-u5711.jpg" crc="176071477" seo="true" ref="minecraft">
+      <caption webpage="minecraft" alt=""/>
+    </file>
+    <file name="minecraft-magazine-ined21-crop-u5815.jpg" crc="4167662702" seo="true" ref="minecraft">
+      <caption webpage="minecraft" alt=""/>
+    </file>
+    <file name="minecraft-rtx-beta_hero-crop-u5841.jpg" crc="3846436735" seo="true" ref="minecraft">
+      <caption webpage="minecraft" alt=""/>
+    </file>
+    <file name="notre-dame_1288081190_266171_1024x576-crop-u5947.jpg" crc="402186611" seo="true" ref="minecraft">
+      <caption webpage="minecraft" alt=""/>
+    </file>
+    <file name="wz-social-share-crop-u5177.jpg" crc="3850279591" seo="true" ref="warzone">
+      <caption webpage="warzone" alt=""/>
+    </file>
+    <file name="maxresdefault (1)-crop-u5281.jpg" crc="67173103" seo="true" ref="warzone">
+      <caption webpage="warzone" alt=""/>
+    </file>
+    <file name="call-duty-warzone-1890743-crop-u5310.jpg" crc="3976561047" seo="true" ref="warzone">
+      <caption webpage="warzone" alt=""/>
+    </file>
+    <file name="1585341956_027955_1585342020_noticia_normal-crop-u5417.jpg" crc="4282008260" seo="true" ref="warzone">
+      <caption webpage="warzone" alt=""/>
+    </file>
+    <file name="3jyz1013z70s1586202454690-crop-u5443.jpg" crc="3867296834" seo="true" ref="warzone">
+      <caption webpage="warzone" alt=""/>
+    </file>
+    <file name="v3dgz3366vaelicgcyp5sfyvve-crop-u5549.jpg" crc="241487923" seo="true" ref="warzone">
+      <caption webpage="warzone" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3850428340" seo="true" mt="1590517505574" redirect="true"/>
+  <file name="historia.html" crc="442055069" seo="true" mt="1622136634313" redirect="true"/>
+  <file name="mejores-consolas.html" crc="3946159179" seo="true" mt="1590520025970" redirect="true"/>
+  <file name="top-de-juegos.html" crc="3938714964" seo="true" mt="1590699427419" redirect="true"/>
+  <file name="xbox.html" crc="10924755" seo="true" mt="1590699878274" redirect="true"/>
+  <file name="playstation.html" crc="3947379951" seo="true" mt="1590699878274" redirect="true"/>
+  <file name="nintendo.html" crc="3909954611" seo="true" mt="1590706071292" redirect="true"/>
+  <file name="fornite.html" crc="2817649" seo="true" mt="1590700385269" redirect="true"/>
+  <file name="minecraft.html" crc="4063456742" seo="true" mt="1590703831011" redirect="true"/>
+  <file name="warzone.html" crc="293228914" seo="true" mt="1590702618501" redirect="true"/>
+</manifest>
